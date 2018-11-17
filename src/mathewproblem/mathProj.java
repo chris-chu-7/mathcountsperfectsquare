@@ -20,7 +20,7 @@ import java.util.Scanner;
 public class mathProj {
 	private static Scanner numInput;
 	public static int findSum(int n) {
-			int total = 0 + 0;
+			int total = 0;
 			for(int i = 1; i <= n; i++) {
 				for (int j = 1; j <= n; j++) {
 					for(int k = 1; k <= n; k++) {
