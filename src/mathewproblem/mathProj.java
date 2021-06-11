@@ -15,6 +15,7 @@
 
 package mathewproblem;
 import java.util.Scanner;
+System.out.println("Attempting to contribute to a fork in the code");
  
 
 public class mathProj {
